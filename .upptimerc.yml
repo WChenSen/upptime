@@ -5,10 +5,6 @@ sites:
   - name: node.wcs66.serv00.net
     url: http://node.wcs66.serv00.net
     maxResponseTime: 1000
-  - name: Google DNS 1
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
 
 status-website:
   baseUrl: /upptime 

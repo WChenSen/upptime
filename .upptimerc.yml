@@ -7,6 +7,6 @@ sites:
     maxResponseTime: 1000
 
 status-website:
-  cname: upptime.node.wcs66.serv00.net
+  cname: upptime.wcs66.serv00.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: upptime
